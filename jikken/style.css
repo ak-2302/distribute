@@ -1,0 +1,52 @@
+#area {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+#area1 {
+    background-color: chocolate;
+}
+
+#area1:hover {
+    background-color: coral;
+}
+
+
+#area2 {
+    background-color: aqua;
+}
+
+#area3 {
+    background-color: rosybrown;
+}
+
+.areanum {
+    width: 30%;
+    height: 3em;
+    vertical-align: middle;
+}
+
+#list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.line {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.name {
+    width: 30%;
+    background-color: aquamarine;
+}
