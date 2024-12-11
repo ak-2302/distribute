@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  11 DEC 2024 13:26
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  11 DEC 2024 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -190,67 +190,70 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box77
 \@float@everytoks=\toks26
 \@floatcapt=\box78
+) (c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (out/説明会資料_4.aux)
 \openout1 = `説明会資料_4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 \c@lstlisting=\count292
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 29.
+(Font)              scaled to size 16.60605pt on input line 30.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 29.
+(Font)              scaled to size 16.60605pt on input line 30.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 29.
+(Font)              scaled to size 11.53198pt on input line 30.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 29.
+(Font)              scaled to size 11.53198pt on input line 30.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 29.
+(Font)              scaled to size 5.76599pt on input line 30.
 
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 40.
+(Font)              scaled to size 13.83836pt on input line 41.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 40.
+(Font)              scaled to size 13.83836pt on input line 41.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 40.
+(Font)              scaled to size 13.83836pt on input line 41.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 40.
+(Font)              scaled to size 13.83836pt on input line 41.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 41.
+(Font)              scaled to size 11.53198pt on input line 42.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 41.
+(Font)              scaled to size 11.53198pt on input line 42.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 45.
+(Font)              scaled to size 9.60999pt on input line 46.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 45.
+(Font)              scaled to size 9.60999pt on input line 46.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 60.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 60.
+(Font)              scaled to size 9.60999pt on input line 61.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 60.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 60.
+(Font)              scaled to size 9.60999pt on input line 61.
 
 
 [2]
@@ -259,9 +262,9 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 File: ./img/全学地図.png Graphic file (type bmp)
 <./img/全学地図.png>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 118.
+(Font)              scaled to size 8.64899pt on input line 119.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 118.
+(Font)              scaled to size 8.64899pt on input line 119.
 File: ./img/エリア地図.png Graphic file (type bmp)
 <./img/エリア地図.png>
 File: ./img/棟地図.png Graphic file (type bmp)
@@ -281,8 +284,20 @@ File: ./img/部屋情報.png Graphic file (type bmp)
 [4]
 
 [5]
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 222.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 222.
 
-[6] (out/説明会資料_4.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
+[]$\OT1/cmtt/m/n/10 https : / / strathprints . strath . ac . uk / 49816 / 1 / Karim _ MHCI _ Final _ Camera _
+ []
+
+
+
+[6]
+
+[7] (out/説明会資料_4.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2024-06-01> patch level 2
@@ -290,12 +305,12 @@ L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3936 strings out of 474236
- 58684 string characters out of 5746535
- 460319 words of memory out of 5000000
- 26812 multiletter control sequences out of 15000+600000
- 570429 words of font info for 92 fonts, out of 8000000 for 9000
+ 4025 strings out of 474236
+ 59887 string characters out of 5746535
+ 461516 words of memory out of 5000000
+ 26896 multiletter control sequences out of 15000+600000
+ 571235 words of font info for 97 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  64i,6n,79p,455b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/説明会資料_4.dvi (6 pages, 11560 bytes).
+Output written on out/説明会資料_4.dvi (7 pages, 12160 bytes).

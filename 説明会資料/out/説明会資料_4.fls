@@ -69,6 +69,8 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
 INPUT out/à–¾‰ï‘—¿_4.aux
 INPUT out/à–¾‰ï‘—¿_4.aux
 INPUT out/à–¾‰ï‘—¿_4.aux
@@ -140,4 +142,9 @@ INPUT ./img/•”‰®î•ñ.png
 INPUT ./img/•”‰®î•ñ.png
 INPUT ./img/•”‰®î•ñ.png
 INPUT extractbb -B cropbox -O ./img/•”‰®î•ñ.png
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT out/à–¾‰ï‘—¿_4.aux
