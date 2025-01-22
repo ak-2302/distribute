@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  22 JAN 2025 16:35
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  22 JAN 2025 16:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -248,12 +248,14 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 [2]
 
 [3]
+
+[4]
 File: ./img/全学地図.png Graphic file (type bmp)
 <./img/全学地図.png>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 121.
+(Font)              scaled to size 8.64899pt on input line 123.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 121.
+(Font)              scaled to size 8.64899pt on input line 123.
 File: ./img/エリア地図.png Graphic file (type bmp)
 <./img/エリア地図.png>
 File: ./img/棟地図.png Graphic file (type bmp)
@@ -270,11 +272,11 @@ File: ./img/部屋情報.png Graphic file (type bmp)
 <./img/部屋情報.png>
 
 
-[4]
-
 [5]
 
-[6] (out/結果報告会.aux)
+[6]
+
+[7] (out/結果報告会.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2024-06-01> patch level 2
@@ -284,10 +286,10 @@ L3 programming layer <2024-10-09>
 Here is how much of TeX's memory you used:
  3932 strings out of 474236
  58607 string characters out of 5746535
- 461313 words of memory out of 5000000
+ 458313 words of memory out of 5000000
  26809 multiletter control sequences out of 15000+600000
  570121 words of font info for 91 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  64i,6n,79p,646b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/結果報告会.dvi (6 pages, 13100 bytes).
+Output written on out/結果報告会.dvi (7 pages, 11940 bytes).
