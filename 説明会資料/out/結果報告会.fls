@@ -139,5 +139,4 @@ INPUT ./img/•”‰®î•ñ.png
 INPUT ./img/•”‰®î•ñ.png
 INPUT ./img/•”‰®î•ñ.png
 INPUT extractbb -B cropbox -O ./img/•”‰®î•ñ.png
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT out/Œ‹‰Ê•ñ‰ï.aux

@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  22 JAN 2025 15:53
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  22 JAN 2025 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -240,9 +240,9 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 41.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 44.
+(Font)              scaled to size 9.60999pt on input line 45.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 44.
+(Font)              scaled to size 9.60999pt on input line 45.
 
 
 [2]
@@ -251,9 +251,9 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 File: ./img/全学地図.png Graphic file (type bmp)
 <./img/全学地図.png>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 109.
+(Font)              scaled to size 8.64899pt on input line 121.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 109.
+(Font)              scaled to size 8.64899pt on input line 121.
 File: ./img/エリア地図.png Graphic file (type bmp)
 <./img/エリア地図.png>
 File: ./img/棟地図.png Graphic file (type bmp)
@@ -273,15 +273,6 @@ File: ./img/部屋情報.png Graphic file (type bmp)
 [4]
 
 [5]
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 193.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 193.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 193.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 193.
-
 
 [6] (out/結果報告会.aux)
  ***********
@@ -291,12 +282,12 @@ L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3936 strings out of 474236
- 58656 string characters out of 5746535
- 460313 words of memory out of 5000000
- 26812 multiletter control sequences out of 15000+600000
- 570429 words of font info for 92 fonts, out of 8000000 for 9000
+ 3932 strings out of 474236
+ 58607 string characters out of 5746535
+ 461313 words of memory out of 5000000
+ 26809 multiletter control sequences out of 15000+600000
+ 570121 words of font info for 91 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  64i,6n,79p,646b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/結果報告会.dvi (6 pages, 12944 bytes).
+Output written on out/結果報告会.dvi (6 pages, 13100 bytes).
