@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  22 JAN 2025 17:51
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.10.31)  23 JAN 2025 13:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -278,7 +278,9 @@ File: ./img/部屋情報.png Graphic file (type bmp)
 
 [7]
 
-[8] (out/結果報告会.aux)
+[8]
+
+[9] (out/結果報告会.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2024-06-01> patch level 2
@@ -294,4 +296,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  64i,6n,79p,646b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/結果報告会.dvi (8 pages, 13448 bytes).
+Output written on out/結果報告会.dvi (9 pages, 18620 bytes).
